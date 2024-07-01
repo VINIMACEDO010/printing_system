@@ -7,7 +7,7 @@ Fila duplamente encadeada
 Prioridade é informada pelo usuário e o processo é deslocado para o início da fila, porém deve ser respeitado se há outros processos prioritários à frente
 
 
-//In English - Create software to manage the Copytech company's service queues: mono queue, color queue and plotter queue. The system must manage entries/exits/queries in queues, in addition to informing the number of people entering and the number of copies per queue. Name and number of copies are provided for each customer. The system must also allow a given customer to be served as a priority, that is, after entering the queue, the user can randomly choose a process and move it to the first position in the queue, as long as the process that is in the first position is no longer be a priority.
+//In English(EN) - Create software to manage the Copytech company's service queues: mono queue, color queue and plotter queue. The system must manage entries/exits/queries in queues, in addition to informing the number of people entering and the number of copies per queue. Name and number of copies are provided for each customer. The system must also allow a given customer to be served as a priority, that is, after entering the queue, the user can randomly choose a process and move it to the first position in the queue, as long as the process that is in the first position is no longer be a priority.
 
 
 Comments:
